@@ -203,7 +203,7 @@
       animation: "slide",
 
       easing: "swing",
-      direction: "vertical",
+      direction: "horizonndal",
 
       slideshowSpeed: 5000,
       directionNav: true,
